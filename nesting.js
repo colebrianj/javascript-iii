@@ -36,7 +36,8 @@ var employees = [{
 //  2. If the employee's first name is Lorie, change her department to 'HR'.
 //  3. Return the updated employee array.
 
-// Code here
+function employeeUpdater()
+if(employees.firstName = Theo)
 
 
 
@@ -54,7 +55,7 @@ var employees = [{
 
 var workplaceAccidents = [12, 56, 44, 3, 29, 56, 56, 3, 7, 12];
 
-// Code here
+function removeDuplicates()
 
 
 
